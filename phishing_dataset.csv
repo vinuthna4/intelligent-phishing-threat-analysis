@@ -1,0 +1,15 @@
+url,label
+https://www.google.com,legitimate
+https://www.amazon.in,legitimate
+https://www.wikipedia.org,legitimate
+https://www.microsoft.com,legitimate
+https://www.icicibank.com,legitimate
+https://www.sbi.co.in,legitimate
+https://www.flipkart.com,legitimate
+
+http://secure-login@bank-update.com,phishing
+http://paypal-verify.com/login,phishing
+http://account-update-security.net,phishing
+http://confirm-bank-details.com,phishing
+http://secure-update@payment-gateway.net,phishing
+http://login-bank-alert.com,phishing
